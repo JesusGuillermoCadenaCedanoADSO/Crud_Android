@@ -9,4 +9,12 @@ Se realiza tutorial de operaciones crud en android con base de datos SQLITE.
 En la intefarz grafica se implementan botones de desplazamiento entre registros, insercion,edicion,borrado, busqueda.
 se añade control listview para visualizar listado de registros.
 
-
+El tutorial cubre los siguientes topicos de Android:
+Contextmenu
+ListView
+SearchView
+SimpleCursorAdapter
+AlertDialog
+SQLiteDatabase
+Cursor
+SQLiteOpenHelper
